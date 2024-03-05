@@ -3,7 +3,7 @@ Data Analysis using MySQL & Power BI
 
 This is major a data cleaning and analysis in MySQL project and can also be done in PostgreSQL.
 
-While doing this guided project I've learned how to do data cleaning and analysis in MySQL. Learned how to convert dates, how to use subqueries and filters in the data to get correct outputs. The query results are saved as csv files to be used later on in creating a simple PowerBI dashboard.
+While doing this guided project, I learned how to do data cleaning and analysis in MySQL. Learned how to convert dates, and how to use subqueries and filters in the data to get correct outputs. The query results are saved as csv files to be used later on in creating a simple PowerBI dashboard.
 
 <img width="657" alt="Screenshot 2024-02-01 161607" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/261fa023-7225-4ec1-8c62-e14ee738b59b">
 
