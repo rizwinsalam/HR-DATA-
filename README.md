@@ -2,7 +2,10 @@
 Data Analysis using MySQL & Power BI
 
 <img width="657" alt="Screenshot 2024-02-01 161607" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/261fa023-7225-4ec1-8c62-e14ee738b59b">
-**Project Description: Employee Analysis and Turnover Trends**
+
+<img width="656" alt="Screenshot 2024-02-01 161640" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/f600660b-1af0-4501-a2d3-599167db2e1f">
+
+**Employee Analysis and Turnover Trends**
 
 **Objective:**
 The objective of this project is to analyze various aspects of employee demographics, turnover rates, and tenure within the company. By examining gender breakdowns, employment lengths, departmental turnover rates, and net changes in employee numbers over time, we aim to gain insights into the workforce dynamics and identify areas for potential improvement.
@@ -38,13 +41,13 @@ The objective of this project is to analyze various aspects of employee demograp
 **Conclusion:**
 This project provides comprehensive insights into employee demographics, turnover trends, and tenure within the company. By understanding these dynamics, the company can make informed decisions to improve employee satisfaction, retention, and overall organizational effectiveness.
 
-<img width="656" alt="Screenshot 2024-02-01 161640" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/f600660b-1af0-4501-a2d3-599167db2e1f">
-
 <img width="476" alt="Screenshot 2024-02-01 162753" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/ebaf0855-8048-4c4b-b62e-dd74119339e8">
 
 <img width="591" alt="Screenshot 2024-02-01 163435" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/504b3afd-5c4c-425a-9f20-732301fd6993">
 
 <img width="591" alt="Screenshot 2024-02-01 163618" src="https://github.com/rizwinsalam/HR-DATA-/assets/152194804/8c965349-3b9c-40e6-8e6b-5589838e8315">
+
+
 This is major a data cleaning and analysis in MySQL project and can also be done in PostgreSQL.
 
 While doing this guided project, I learned how to do data cleaning and analysis in MySQL. Learned how to convert dates, and how to use subqueries and filters in the data to get correct outputs. The query results are saved as csv files to be used later on in creating a simple PowerBI dashboard.
